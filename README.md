@@ -2,4 +2,4 @@ Ray tracer using pygame using tutorial Ray Tracing in One Weekend: https://raytr
 
 Do `pip install requirements.txt` and then run `python3 shader.py`
 
-Code tested on Python 3.10.5
+Code has been tested on Python 3.10.5
